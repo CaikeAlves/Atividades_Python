@@ -2,9 +2,17 @@
 # Seu aplicativo deverá analisar se a expressão passada está com os parênteses abertos e
 # fechados na ordem correta.
 expressao = input('Digite uma expressão:' )
-aberto = expressao.count('(')
-fechado = expressao.count(')')
-if aberto == fechado:
-    print('A expressao esta certa')
+pilha = []
+for simbolo in expressao:
+    if simbolo == '(':
+        pilha.append(simbolo)
+    elif simbolo == ')':
+        if len(pilha) > 0:
+            pilha.pop()
+        else:
+            pilha.append(simbolo)
+            break
+if len(pilha) > 0:
+    print('\033[31mA expressão está errada')
 else:
-    print('A expressão errada')
+    print('\033[32mA expressão está correta')

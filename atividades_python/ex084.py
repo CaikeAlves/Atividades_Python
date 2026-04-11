@@ -7,7 +7,8 @@ pessoas = list()
 pessoa = list()
 quantidade = 0
 peso = 0
-pesada = list()
+pena = 999
+pesada = list ()
 leve = list()
 while True:
     pessoa.append(input('Nome: '))
@@ -25,6 +26,13 @@ for p in pessoas:
         pesada.append(p[0])
     elif p[1] == peso:
         pesada.append(p[0])
-
+for p in pessoas:
+    if p[1] < pena:
+        leve.clear()
+        pena = p[1]
+        leve.append(p[0])
+    elif p[1] == pena:
+        leve.append(p[0])
 print(f'Foram cadastradas {quantidade} pessoas.')
-print(f'a pessoa mais pesada e {pesada} com {peso}Kg.')
+print(f'a pessoa mais pesada é {pesada} com {peso}Kg.')
+print(f'A pessoa mais leve é {leve} com {pena}Kg.')

@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f4e910a-38e0-4856-bc66-5a1635d66ed2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/atividades_python/ex091_jogo_de_dados.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades_python/ex092_cadastro_de_trabalhador.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atividades_python/ex093_cadastro_de_jogador_de_futebol.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividades_python/ex093_cadastro_de_jogador_de_futebol.py" beforeDir="false" afterPath="$PROJECT_DIR$/atividades_python/ex093_cadastro_de_jogador_de_futebol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,32 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ex003_somando_dois_numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex088.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex090_dicionario_em_python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex091_jogo_de_dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex092_cadastro_de_trabalhador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/caike/OneDrive/Caike/Estudos/Atividades_Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ex003_somando_dois_numeros.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex088.executor": "Run",
+    "Python.ex090_dicionario_em_python.executor": "Run",
+    "Python.ex091_jogo_de_dados.executor": "Run",
+    "Python.ex092_cadastro_de_trabalhador.executor": "Run",
+    "Python.ex093_cadastro_de_jogador_de_futebol.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/caike/OneDrive/Caike/Estudos/Atividades_Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.ex092_cadastro_de_trabalhador">
+}]]></component>
+  <component name="RunManager" selected="Python.ex093_cadastro_de_jogador_de_futebol">
     <configuration name="ex039" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Atividades_Python" />
       <option name="ENV_FILES" value="" />
@@ -144,7 +146,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12 (PythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades_python" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -160,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex093_cadastro_de_jogador_de_futebol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Atividades_Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,13 +170,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Leitor de relatorio" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/atividades_python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Leitor de relatorio/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/atividades_python/ex093_cadastro_de_jogador_de_futebol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex093_cadastro_de_jogador_de_futebol" />
         <item itemvalue="Python.ex092_cadastro_de_trabalhador" />
         <item itemvalue="Python.ex091_jogo_de_dados" />
         <item itemvalue="Python.ex090_dicionario_em_python" />
         <item itemvalue="Python.ex039" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>

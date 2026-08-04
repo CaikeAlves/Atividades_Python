@@ -1,0 +1,5 @@
+time = list()
+jogador = dict()
+gols = list()
+jogador['nome'] = input('Nome do jogador: ')
+jogador['jogos'] = int(input('Quantas partidas jogadas: '))
